@@ -53,9 +53,9 @@
     .app__specialMenu-menu_img {
         width: 650px;
     }
-    .app__specialMenu-menu_img img {
+    /* .app__specialMenu-menu_img img {
         height: 920px;
-    }
+    } */
 }
 @media screen and (max-width: 1150px) {
     .app__specialMenu-menu {
